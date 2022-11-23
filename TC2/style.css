@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-/* NAVIGATION */
+
 nav {
     width: 80%;
     margin: 0 auto;
@@ -30,7 +30,7 @@ nav ul li a {
     margin: 0 10px;
 }
 
-/* SHIFT */
+
 nav.shift ul li a {
     position: relative;
     z-index: 1;
